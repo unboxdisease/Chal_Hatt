@@ -19,6 +19,7 @@ int main()
   
     // Function to get the average of 2 numbers 
     cout << "Computed average : " << compute_average(a, b); 
+    cout << "\n";
   
     return 0; 
 } 

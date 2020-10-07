@@ -9,8 +9,12 @@ using namespace __gnu_pbds;
 
 #define mk make_pair
 #define pb push_back
+#define ff first
+#define ss second
+#define all(v) v.begin(),v.end()
 
 typedef long long lld;
+typedef long double ld;
 typedef pair<lld,lld> pr;
 typedef priority_queue <lld> max_heap;
 typedef priority_queue <lld, vector<lld>, greater<lld> > min_heap;

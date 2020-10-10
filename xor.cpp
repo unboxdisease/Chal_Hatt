@@ -16,8 +16,11 @@ typedef pair<int,int> pi;
 #define all(x) x.begin(),x.end()
 int main()
 {
-    ll a,b;
-    cin>>a,b;
+    //Nim Appa
+    ll a;
+    ll b;
+    cin>>a;
+    cin>>b;
     ll ans = a^b;
     cout<<ans;
     return 0;

@@ -1,0 +1,21 @@
+20
+jobs
+bg 3
+kjob 1 9
+overkill
+overkil
+\gedit
+gedit
+jobs
+bg 1
+history
+la
+ls
+ls | grep c
+ls grep c >> a
+vim
+vi
+seq 11 20 > a
+seq 11 20
+cat a
+cat a > b

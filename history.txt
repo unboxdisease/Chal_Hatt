@@ -1,0 +1,21 @@
+20
+ls -l
+ls -la
+ls -a
+pwd
+cd ..
+cd 2	
+cd 2019111001_assgn3
+cd 2019111001_assgn2
+pinfo
+history
+history 6
+emacs &
+history
+emacs
+pinfo 2
+pinfo
+pinfo 4126
+vim
+emacs
+vim &
